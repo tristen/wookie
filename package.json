@@ -1,6 +1,6 @@
 {
   "name": "wookie",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Basic HTTP cookie handling",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/tristen/web-cookie.git"
+    "url": "git://github.com/tristen/wookie.git"
   },
   "keywords": [
     "cookie",
@@ -17,9 +17,9 @@
   "author": "@fallsemo",
   "license": "BSD",
   "bugs": {
-    "url": "https://github.com/tristen/web-cookie/issues"
+    "url": "https://github.com/tristen/wookie/issues"
   },
-  "homepage": "https://github.com/tristen/web-cookie",
+  "homepage": "https://github.com/tristen/wookie",
   "devDependencies": {
     "tape": "~2.13.1"
   }
