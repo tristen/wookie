@@ -48,3 +48,7 @@ npm -g browserify
 npm -g testling
 npm test
 ```
+
+### Licence
+
+BSD
