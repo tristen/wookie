@@ -2,7 +2,7 @@
 
 Basic HTTP cookie handling for node or browsers.
 
-![](http://cl.ly/Vhbb/cookie.png)
+![](http://cl.ly/VhaO/cookie.png)
 
 ### Usage
 
