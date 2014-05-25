@@ -1,0 +1,26 @@
+{
+  "name": "wookie",
+  "version": "0.0.0",
+  "description": "Basic HTTP cookie handling",
+  "main": "index.js",
+  "scripts": {
+    "test": "browserify test/index.js | testling -u"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tristen/web-cookie.git"
+  },
+  "keywords": [
+    "cookie",
+    "cookies"
+  ],
+  "author": "@fallsemo",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/tristen/web-cookie/issues"
+  },
+  "homepage": "https://github.com/tristen/web-cookie",
+  "devDependencies": {
+    "tape": "~2.13.1"
+  }
+}
