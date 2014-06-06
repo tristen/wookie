@@ -44,8 +44,8 @@ Removes all cookies for a domain.
 ### Tests
 
 ``` sh
-npm -g browserify
-npm -g testling
+npm install -g browserify
+npm install -g testling
 npm test
 ```
 
